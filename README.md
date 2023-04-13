@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Self-Driving-in-Duckietown](https://github.com/dancsomarci/Self-Driving-in-Duckietown)
 
-- 📫 How to reach me **dancsomarci@gmail.com**
+- 📫 How to reach me dancsomarci@gmail.com
 
 - 📄 Know about my experiences [https://registry.jsonresume.org/dancsomarci](https://registry.jsonresume.org/dancsomarci)
 
