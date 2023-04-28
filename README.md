@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Marcell Dancsó</h1>
+<h1 align="center">Hi 👋, I'm Marci</h1>
 
 <p align="left">
   <b>I'm a Computer Science student at Budapest University of Technology and Economics with a passion for automation and problem-solving.</b> I excel in math and coding, possess strong communication skills in both Hungarian and English, and have a helpful and friendly personality. I have an insatiable thirst for knowledge and am always eager to learn more. Feel free to contact me if you're interested in working together.
