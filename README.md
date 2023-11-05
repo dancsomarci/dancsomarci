@@ -4,11 +4,13 @@
   <b>I'm a Computer Science student at Budapest University of Technology and Economics with a passion for automation and problem-solving.</b> I excel in math and coding, possess strong communication skills in both Hungarian and English, and have a helpful and friendly personality. I have an insatiable thirst for knowledge and am always eager to learn more. Feel free to contact me if you're interested in working together.
 </p>
 
-- 🔭 I’m currently working on [Sign-Language-Translation](https://github.com/dancsomarci/sign-language)
+- 🔭 I’m currently working on [Sign Language Translation](https://github.com/dancsomarci/sign-language)
 
 - 📫 How to reach me dancsomarci@gmail.com
 
-- 📄 Know about my experiences [https://registry.jsonresume.org/dancsomarci](https://registry.jsonresume.org/dancsomarci)
+- 💼 Know about my experiences [LinkedIn profile](https://www.linkedin.com/in/marcell-dancs%C3%B3-a12059271/)
+
+- 📄 Check out my [resume](https://registry.jsonresume.org/dancsomarci)
 
 <h3 align="left">Currently Working with:</h3>
 <p align="center">
