@@ -10,24 +10,20 @@
 
 - 📄 Know about my experiences [https://registry.jsonresume.org/dancsomarci](https://registry.jsonresume.org/dancsomarci)
 
-<h3 align="left">Currently Learning:</h3>
+<h3 align="left">Currently Working with:</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,figma,firebase" />
+    <img src="https://skillicons.dev/icons?i=py,tensorflow" />
 </p>
 
 <h3 align="left">Key Skills:</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=cs,java,py,js,mongodb" />
+    <img src="https://skillicons.dev/icons?i=cs,java,js,mongodb" />
 </p>
 
 <h3 align="left">Secondary Proficiencies:</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,nodejs,dotnet,c,cpp,kotlin,matlab,tensorflow,ps,pr,ai" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,nodejs,dotnet,c,cpp,kotlin,flutter,matlab,ps,pr,ai" />
 </p>
 
 <h3 align="left">Statistics:</h3>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dancsomarci&theme=transparent&show_icons=true&locale=en" alt="dancsomarci" /></p>
-
-<p align="center">
-    <img src="https://github.com/dancsomarci/dancsomarci/blob/output/github-contribution-grid-snake.svg" />
-</p>
