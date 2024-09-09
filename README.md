@@ -10,8 +10,6 @@
 
 - 💼 Know about my experiences [LinkedIn profile](https://www.linkedin.com/in/marcell-dancs%C3%B3-a12059271/)
 
-- 📄 Check out my [resume](https://registry.jsonresume.org/dancsomarci)
-
 <h3 align="left">Currently Working with:</h3>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=py,tensorflow" />
