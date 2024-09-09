@@ -26,6 +26,3 @@
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,nodejs,dotnet,c,cpp,kotlin,flutter,matlab,ps,pr,ai" />
 </p>
-
-<h3 align="left">Statistics:</h3>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dancsomarci&theme=transparent&show_icons=true&locale=en" alt="dancsomarci" /></p>
